@@ -55,6 +55,10 @@ The machine learning approach implements a sophisticated feature extraction and 
    - DenseNet121: 1,024-dimensional features
    - **Combined**: 4,352-dimensional fused feature vector
 5. **Machine Learning Classifiers**: Random Forest (RF) and Support Vector Machine (SVM)
+  
+<div align="center">
+  <img src="https://github.com/esraamhmd/Intelligent-Skin-Cancer-Image-based-Detection-models/blob/main/mlframework.png" width="900" alt="Deep learning framework"/>
+  </div>
 
 ### Deep Learning Framework
 
@@ -69,6 +73,10 @@ The deep learning approach uses an ensemble of three powerful CNN architectures:
    - ResNet50: Deep feature learning with residual connections
    - DenseNet121: Dense connectivity for feature reuse
 5. **Ensemble Prediction**: Voting/averaging of predictions
+
+<div align="center">
+  <img src="https://github.com/esraamhmd/Intelligent-Skin-Cancer-Image-based-Detection-models/blob/main/dlframework.png" width="900" alt="Deep learning framework"/>
+  </div>
 
 ## 🔧 Data Preprocessing Pipeline
 
