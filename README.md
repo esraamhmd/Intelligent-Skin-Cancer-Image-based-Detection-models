@@ -23,6 +23,8 @@ Skin cancer is one of the most common types of cancer worldwide, with melanoma b
 - **Source**: ViDIR Group, Department of Dermatology, Medical University of Vienna
 - **Collection**: Images from Austria and Australia ensuring diversity
 
+**Dataset Link**: [HAM10000 on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+
 | Lesion Type | Abbreviation | Number of Images | Description |
 |-------------|--------------|------------------|-------------|
 | Melanoma | MEL | 1,113 | A highly malignant skin cancer |
@@ -33,11 +35,14 @@ Skin cancer is one of the most common types of cancer worldwide, with melanoma b
 | Vascular Lesions | VASC | 142 | Includes hemangiomas and pyogenic granulomas |
 | Dermatofibroma | DF | 115 | A rare benign fibrous lesion |
 
+
 ### ISIC Archive Dataset
 - **Total Images**: 28,000 high-quality dermoscopic images
 - **Source**: International Skin Imaging Collaboration (ISIC)
 - **Collection**: Multiple institutions and research organizations worldwide
 - **Balanced Distribution**: 4,000 images per class for 7 lesion types
+
+**Dataset Link**: [ISIC 2019 Balanced Dataset on Kaggle](https://www.kaggle.com/datasets/shadmansobhan/isic-2019-balanced-dataset-4000-images-per-class)
 
 ## 🏗️ Framework Architectures
 
